@@ -1,7 +1,7 @@
 package com.example.projectebodshojaei
 
 import android.app.Application
-import com.example.projectebodshojaei.data.CryptoRepository
+import com.example.projectebodshojaei.data.crypto.CryptoRepository
 import io.ktor.client.HttpClient
 import io.ktor.client.plugins.contentnegotiation.ContentNegotiation
 import io.ktor.serialization.gson.gson

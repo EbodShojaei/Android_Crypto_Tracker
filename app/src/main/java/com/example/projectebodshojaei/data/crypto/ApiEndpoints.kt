@@ -1,4 +1,4 @@
-package com.example.projectebodshojaei.data
+package com.example.projectebodshojaei.data.crypto
 
 /**
  * Enum class to define the API endpoints of the CoinCap API

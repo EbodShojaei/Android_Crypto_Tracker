@@ -1,4 +1,4 @@
-package com.example.projectebodshojaei.data
+package com.example.projectebodshojaei.data.crypto
 
 import com.google.gson.annotations.SerializedName
 

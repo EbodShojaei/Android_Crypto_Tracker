@@ -1,4 +1,4 @@
-package com.example.projectebodshojaei.data
+package com.example.projectebodshojaei.data.crypto
 
 enum class Intervals(val time: String) {
     M1("m1"),
