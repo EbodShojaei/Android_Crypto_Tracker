@@ -8,7 +8,6 @@ import com.example.projectebodshojaei.data.crypto.CryptoState
 import com.example.projectebodshojaei.data.user.UserRepository
 import com.example.projectebodshojaei.data.user.UserState
 import com.example.projectebodshojaei.ui.MainScreen
-import com.example.projectebodshojaei.ui.main.MainContent
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
